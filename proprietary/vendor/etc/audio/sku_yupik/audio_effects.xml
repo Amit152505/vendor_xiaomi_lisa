@@ -104,6 +104,7 @@
     </effects>
     <postprocess>
         <stream type="voice_call">
+            <apply effect="voice_helper"/>
         </stream>
     </postprocess>
     <preprocess>
